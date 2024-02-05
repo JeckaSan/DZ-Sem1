@@ -45,9 +45,4 @@
     
 // Задача 4:
 
-int N = 568;
-int negativeN = 1;
-if (N > 0)
-{
-    Console.WriteLine 
-}
+
